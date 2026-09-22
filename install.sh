@@ -8,7 +8,7 @@ REPO="Markx755/STAR-Plus"
 ASSET_NAME="star_plus.zip"
 MAIN_FILE="star_plus.py"
 LATEST_API="https://api.github.com/repos/$REPO/releases/latest"
-DIR="$HOME/star-tool"
+DIR="$HOME/STAR-Plus"
 
 echo "════════════════════════════════════════"
 echo "  ⭐ STAR Plus · Auto Rejoin · Installer"
