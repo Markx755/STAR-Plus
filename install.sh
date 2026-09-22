@@ -4,7 +4,7 @@
 
 set -e
 
-REPO="Markx755/Starplustool"
+REPO="Markx755/STAR-Plus"
 ASSET_NAME="star_plus.zip"
 MAIN_FILE="star_plus.py"
 LATEST_API="https://api.github.com/repos/$REPO/releases/latest"
