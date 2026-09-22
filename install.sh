@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # STAR Plus — Fast Installer (แก้ค้างตอนอัปเดต)
-# Repo: Markx755/Starplustool
+# Repo: Markx755/STAR-Plus"
 
 set -e
 
@@ -8,7 +8,7 @@ REPO="Markx755/STAR-Plus"
 ASSET_NAME="star_plus.zip"
 MAIN_FILE="star_plus.py"
 LATEST_API="https://api.github.com/repos/$REPO/releases/latest"
-DIR="$HOME/STAR-Plus"
+DIR="$HOME/star-tool"
 
 echo "════════════════════════════════════════"
 echo "  ⭐ STAR Plus · Auto Rejoin · Installer"
